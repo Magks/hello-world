@@ -1,5 +1,4 @@
-# hello-world
-Finna repo like Snorri Sturluson
+# hello-worlw
 
 "The sun knew not
 Where her hall she had;
@@ -10,4 +9,6 @@ Their resting-places."
 
 -- Snorri Sturluson, The Prose Edda, IV.8 "The Creation of the the World" c. 1220
 
-How fragile and flexible our conceptions, but indelible are the essences underlying any beginning. Sometimes most of the journey is the unveiling and reclamation of those essences. 
+Fragile and flexible the vagaries of conception, but indelible are the essences underlying any beginning. Often most of the journey is the unveiling and reclamation of the original foundation. 
+
+-- "The Soft Wrap, O Captain, O Muse"
